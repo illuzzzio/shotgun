@@ -1,6 +1,10 @@
 s = "pranjal"
 t = "lajnarp"
 
+1101
+1010 
+ab 
+
 def valid_anagram(s,t):
     return sorted(s)== sorted(t)
 
